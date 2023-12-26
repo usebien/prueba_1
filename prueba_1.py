@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-st.set_page_config(page_title="ALAUNA")
+st.set_page_config(page_title="sale_con_fritas")
 
 header = st.container()
 traduccion = st.container()
